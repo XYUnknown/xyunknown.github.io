@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'DLROW OLLEH'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Greetings, it is quite unexpected for me that you visit this personal page. This is X.Y. A pair of representation of unknown numbers in mathematics but a proven exsiting creature. A pair of chromosomes indicating the biological male gender but actually a female. This creature Likes eating sweets, reading, watching anime and drawing (but being bad at drawing). Currently she locates at Edinburgh and doing research in computers. Maybe you have already might this creature or will meet this creature at somewhere on the earth. Have a nice day ^w^
