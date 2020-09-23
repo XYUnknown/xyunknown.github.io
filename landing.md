@@ -2,7 +2,7 @@
 title: Collection
 layout: landing
 description: ''
-image: assets/images/pic07.jpg
+image: assets/images/img06.jpg
 nav-menu: true
 ---
 
