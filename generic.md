@@ -47,7 +47,7 @@ nav-menu: true
 				<td><a href="https://xyunknown.github.io/assets/pdfs/spls2022.pdf">PDF</a></td>
 			</tr>
 			<tr>
-				<td>2020 SPLS <a href="https://xyunknown.github.io/assets/pdfs/icfp20.pdf">slides</a></td>
+				<td>2020 SPLS</td>
 				<td>
                     Proving the Correctness of Rewrite Rules with Agda
                 </td>
