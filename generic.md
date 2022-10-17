@@ -29,7 +29,7 @@ nav-menu: true
                     <br />
                     <Small>Proc. ACM Program. Lang., Vol. 4, No. ICFP, Article 92. Publication date: August 2020.</small>
                 </td>
-				<td><a href="https://xyunknown.github.io/assets/pdfs/icfp20.pdf">PDF</a></td>
+				<td><a href="https://xyunknown.github.io/assets/pdfs/icfp2020.pdf">PDF</a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -44,7 +44,7 @@ nav-menu: true
 				<td>
                     Property-based container data types
                 </td>
-				<td><a href="https://xyunknown.github.io/assets/pdfs/spls2022.pdf">PDF</a></td>
+				<td><a href="https://xyunknown.github.io/assets/pdfs/spls2022.pdf">slides</a></td>
 			</tr>
 			<tr>
 				<td>2020 SPLS</td>
