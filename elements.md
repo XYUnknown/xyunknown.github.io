@@ -11,7 +11,7 @@ nav-menu: true
     * [Project report](https://xyunknown.github.io/individual-project/2335466q.pdf)
 * Container Data Types and Their Properties:
     * [Project reposity](https://github.com/XYUnknown/container-project/tree/main/preprocess)
-    * [Paper](https://xyunknown.github.io/assets/pdfs/icfp2020.pdf)
+    * [Paper](https://xyunknown.github.io/assets/pdfs/submission.pdf)
     * [talk slides](https://xyunknown.github.io/assets/pdfs/spls2022.pdf)
 * A Study in Equaulity (ongoing):
     * [Project repository](https://github.com/XYUnknown/ASinE)
