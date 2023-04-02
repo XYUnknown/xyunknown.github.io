@@ -16,9 +16,9 @@ nav-menu: true
                     <br />
                     <i>Xueying Qin, Liam O'Connor, Michel Steuwer</i>
                     <br />
-                    <small>arXiv</small>
+                    <small>The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 3, Article 11</small>
                 </td>
-				<td><a href="https://xyunknown.github.io/assets/pdfs/submission.pdf">PDF</a></td>
+				<td><a href="https://xyunknown.github.io/assets/pdfs/programming2023.pdf">PDF</a></td>
 			</tr>
 			<tr>
 				<td>2020</td>
@@ -44,7 +44,7 @@ nav-menu: true
 				<td>
                     Property-based container data types
                 </td>
-				<td><a href="https://xyunknown.github.io/assets/pdfs/spls2022.pdf">slides</a></td>
+				<td><a href="https://xyunknown.github.io/assets/pdfs/talk_programming_2023.pdf">slides</a></td>
 			</tr>
 			<tr>
 				<td>2020 SPLS</td>
