@@ -15,5 +15,5 @@ nav-menu: true
     * [talk slides](https://xyunknown.github.io/assets/pdfs/spls2022.pdf)
 * A Study in Equaulity (ongoing):
     * [Project repository](https://github.com/XYUnknown/ASinE)
-* Lobster: A (New) Logic for Rewrite Strategies (ongoing):
-    * Documents are in the progress of being polished.
+* ~~Lobster: A (New) Logic for Rewrite Strategies~~ Shoggoth - A Formal Foundation for Strategic Rewriting:
+    * Informal document: [View online](https://www.overleaf.com/read/vgxpsywhcnxc)

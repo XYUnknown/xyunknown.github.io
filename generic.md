@@ -10,6 +10,17 @@ nav-menu: true
 	<table border="0">
 		<tbody>
 			<tr>
+			<td>2023</td>
+				<td>
+                    <b>Shoggoth - A Formal Foundation for Strategic Rewriting</b>
+                    <br />
+                    <i>Xueying Qin, Liam O'Connor, Rob van Glabbeek, Peter Höfner, Ohad Kammar, Michel Steuwer</i>
+                    <br />
+                    <small>DRAFT</small>
+					<td><a href="https://xyunknown.github.io/assets/pdfs/shoggoth.pdf">PDF</a></td>
+                </td>
+			</tr>
+			<tr>
 				<td>2022</td>
 				<td>
                     <b>Primrose: Selecting Container Data Types by their Properties</b>
@@ -40,14 +51,21 @@ nav-menu: true
 	<table border="0">
 		<tbody>
 			<tr>
-				<td>2022 SPLS</td>
+				<td>2023 June SPLS</td>
+				<td>
+                    Property-based container data types
+                </td>
+				<td><a href="https://xyunknown.github.io/assets/pdfs/spls2023.pdf">slides</a></td>
+			</tr>
+			<tr>
+				<td>2022 April SPLS</td>
 				<td>
                     Property-based container data types
                 </td>
 				<td><a href="https://xyunknown.github.io/assets/pdfs/talk_programming_2023.pdf">slides</a></td>
 			</tr>
 			<tr>
-				<td>2020 SPLS</td>
+				<td>2020 October SPLS</td>
 				<td>
                     Proving the Correctness of Rewrite Rules with Agda
                 </td>
