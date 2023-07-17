@@ -53,14 +53,14 @@ nav-menu: true
 			<tr>
 				<td>2023 June SPLS</td>
 				<td>
-                    Property-based container data types
+                    Shoggoth: A Formalised Logic for Strategic Rewriting
                 </td>
 				<td><a href="https://xyunknown.github.io/assets/pdfs/spls2023.pdf">slides</a></td>
 			</tr>
 			<tr>
 				<td>2022 April SPLS</td>
 				<td>
-                    Property-based container data types
+                    Property-Based Container Data Types
                 </td>
 				<td><a href="https://xyunknown.github.io/assets/pdfs/talk_programming_2023.pdf">slides</a></td>
 			</tr>
