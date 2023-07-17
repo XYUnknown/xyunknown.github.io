@@ -13,7 +13,8 @@ nav-menu: true
     * [Project reposity](https://github.com/XYUnknown/container-project/tree/main/preprocess)
     * [Paper](https://xyunknown.github.io/assets/pdfs/submission.pdf)
     * [talk slides](https://xyunknown.github.io/assets/pdfs/spls2022.pdf)
-* A Study in Equaulity (ongoing):
-    * [Project repository](https://github.com/XYUnknown/ASinE)
 * ~~Lobster: A (New) Logic for Rewrite Strategies~~ Shoggoth - A Formal Foundation for Strategic Rewriting:
     * Informal document: [View online](https://www.overleaf.com/read/vgxpsywhcnxc)
+    * Formal document: [Paper (DRAFT)](https://xyunknown.github.io/assets/pdfs/shpggoth.pdf)
+* A Study in Equaulity (ongoing):
+    * [Project repository](https://github.com/XYUnknown/ASinE)
