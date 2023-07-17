@@ -12,9 +12,9 @@ nav-menu: true
 * Container Data Types and Their Properties:
     * [Project reposity](https://github.com/XYUnknown/container-project/tree/main/preprocess)
     * [Paper](https://xyunknown.github.io/assets/pdfs/programming2023.pdf)
-    * [talk slides](https://xyunknown.github.io/assets/pdfs/spls2022.pdf)
+    * [talk slides](https://xyunknown.github.io/assets/pdfs/programming2023.pdf)
 * ~~Lobster: A (New) Logic for Rewrite Strategies~~ Shoggoth - A Formal Foundation for Strategic Rewriting:
     * Informal document: [View online](https://www.overleaf.com/read/vgxpsywhcnxc)
-    * Formal document: [Paper (DRAFT)](https://xyunknown.github.io/assets/pdfs/shpggoth.pdf)
+    * Formal document: [Paper (DRAFT)](https://xyunknown.github.io/assets/pdfs/shoggoth.pdf)
 * A Study in Equality (ongoing):
     * [Project repository](https://github.com/XYUnknown/ASinE)
