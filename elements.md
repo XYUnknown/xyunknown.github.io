@@ -15,6 +15,6 @@ nav-menu: true
     * [talk slides](https://xyunknown.github.io/assets/pdfs/talk_programming_2023.pdf)
 * ~~Lobster: A (New) Logic for Rewrite Strategies~~ Shoggoth - A Formal Foundation for Strategic Rewriting:
     * Informal document: [View online](https://www.overleaf.com/read/vgxpsywhcnxc)
-    * Formal document: [Paper (DRAFT)](https://xyunknown.github.io/assets/pdfs/popl2024.pdf)
+    * Formal document: [Paper](https://xyunknown.github.io/assets/pdfs/popl2024.pdf)
 * A Study in Equality (ongoing):
     * [Project repository](https://github.com/XYUnknown/ASinE)
