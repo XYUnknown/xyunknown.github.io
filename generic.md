@@ -16,8 +16,8 @@ nav-menu: true
                     <br />
                     <i>Xueying Qin, Liam O'Connor, Rob van Glabbeek, Peter Höfner, Ohad Kammar, Michel Steuwer</i>
                     <br />
-                    <small>DRAFT</small>
-					<td><a href="https://xyunknown.github.io/assets/pdfs/shoggoth.pdf">PDF</a></td>
+                    <small>Proc. ACM Program. Lang., Vol. 8, No. POPL, Article 3. Publication date: January 2024.</small>
+					<td><a href="https://xyunknown.github.io/assets/pdfs/popl2024.pdf">PDF</a></td>
                 </td>
 			</tr>
 			<tr>
