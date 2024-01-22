@@ -51,6 +51,13 @@ nav-menu: true
 	<table border="0">
 		<tbody>
 			<tr>
+				<td>2024 POPL</td>
+				<td>
+                    Shoggoth: A Formal Foundation for Strategic Rewriting
+                </td>
+				<td><a href="https://xyunknown.github.io/assets/pdfs/shoggoth_talk_jan_2024.pdf">slides</a></td>
+			</tr>
+			<tr>
 				<td>2023 June SPLS</td>
 				<td>
                     Shoggoth: A Formalised Logic for Strategic Rewriting
