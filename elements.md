@@ -18,3 +18,5 @@ nav-menu: true
     * Formal document: [Paper](https://xyunknown.github.io/assets/pdfs/popl2024.pdf)
 * A Study in Equality (ongoing):
     * [Project repository](https://github.com/XYUnknown/ASinE)
+* Necronomicon: the thesis (ongoing):
+    * [Project repository](https://github.com/XYUnknown/Necronomicon)

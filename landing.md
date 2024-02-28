@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>My CV</h3>
 				</header>
-				<p>TBC - I will put my CV here</p>
+				<p><a href="https://xyunknown.github.io/assets/pdfs/CV.pdf">PDF</a></p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
