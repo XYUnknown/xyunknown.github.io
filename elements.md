@@ -20,3 +20,4 @@ nav-menu: true
     * [Project repository](https://github.com/XYUnknown/ASinE)
 * Necronomicon: the thesis (ongoing):
     * [Project repository](https://github.com/XYUnknown/Necronomicon)
+    * [View online](https://www.overleaf.com/read/xpxbmzyvjscv#4d2de4)
