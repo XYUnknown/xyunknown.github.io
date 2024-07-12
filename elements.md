@@ -22,3 +22,4 @@ nav-menu: true
     * [Project repository](https://github.com/XYUnknown/Necronomicon)
     * [View online](https://www.overleaf.com/read/xpxbmzyvjscv#4d2de4)
     * [A summary of projects](https://xyunknown.github.io/assets/pdfs/summary_of_projects.pdf)
+    * [The submitted version](https://xyunknown.github.io/assets/pdfs/thesis-submission.pdf) (Status: waiting for viva to be arranged)
