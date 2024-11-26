@@ -18,7 +18,7 @@ nav-menu: true
     * Formal document: [Paper](https://xyunknown.github.io/assets/pdfs/popl2024.pdf)
 * A Study in Equality (ongoing):
     * [Project repository](https://github.com/XYUnknown/ASinE)
-* Panopticon - a Rust RPC Library:
+* Panopticon - A Rust RPC Library:
     * [Project report](https://xyunknown.github.io/assets/pdfs/panopticon_draft.pdf)
 * Necronomicon: the thesis
     * [Project repository](https://github.com/XYUnknown/Necronomicon)
